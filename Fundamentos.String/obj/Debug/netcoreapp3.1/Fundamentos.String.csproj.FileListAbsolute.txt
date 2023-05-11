@@ -1,0 +1,14 @@
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\bin\Debug\netcoreapp3.1\Fundamentos.String.exe
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\bin\Debug\netcoreapp3.1\Fundamentos.String.deps.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\bin\Debug\netcoreapp3.1\Fundamentos.String.runtimeconfig.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\bin\Debug\netcoreapp3.1\Fundamentos.String.runtimeconfig.dev.json
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\bin\Debug\netcoreapp3.1\Fundamentos.String.dll
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\bin\Debug\netcoreapp3.1\Fundamentos.String.pdb
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\obj\Debug\netcoreapp3.1\Fundamentos.String.csproj.AssemblyReference.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\obj\Debug\netcoreapp3.1\Fundamentos.String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\obj\Debug\netcoreapp3.1\Fundamentos.String.AssemblyInfoInputs.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\obj\Debug\netcoreapp3.1\Fundamentos.String.AssemblyInfo.cs
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\obj\Debug\netcoreapp3.1\Fundamentos.String.csproj.CoreCompileInputs.cache
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\obj\Debug\netcoreapp3.1\Fundamentos.String.dll
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\obj\Debug\netcoreapp3.1\Fundamentos.String.pdb
+C:\Projetos\Balta\Fundamentos c#\src\Fundamentos.String\Fundamentos.String\obj\Debug\netcoreapp3.1\Fundamentos.String.genruntimeconfig.cache
